@@ -6,6 +6,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
 # C extensions
 *.so
 
@@ -141,3 +142,7 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+#Render
+render.yaml
+
