@@ -74,3 +74,5 @@ Antes de ejecutar el proyecto, asegúrate de tener:
     ├── templates/            # Carpeta de plantillas HTML de jinja
     │   ├── welcome.html      # Plantilla del correo de bienvenida
     └── README.md             # Descripción del proyecto
+
+
